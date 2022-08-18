@@ -5,7 +5,7 @@
 			"name": "Run Dev Server",
 			"type": "node",
 			"request": "launch",
-			"cwd": "${workspaceRoot}/vue",
+			"cwd": "${workspaceRoot}",
 			"runtimeExecutable": "npm",
 			"runtimeArgs": [
 				"run-script", "dev"
